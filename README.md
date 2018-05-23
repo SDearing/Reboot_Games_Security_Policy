@@ -34,3 +34,14 @@ Another threat to our organisation is malware. Malware refers to a variety of ma
 
 #### Data Loss/Theft
 Data loss is when data cannot be accessed anymore by the company; because it has been lost, stolen, deleted or corrupted. If data is lost, it means that we will have to go back in the development process and re-create the lost data which would slow the development process significantly. If data is stolen it can be very beneficial to the thief as they could sell our data to other rivaling companies for financial gain.
+## 3.0 Organisational Security Procedures
+## 4.0 Potential Impact of Incorrect Configurations
+### 4.1 Firewall Policies
+### 4.2 Third Party VPNs
+## 5.0 Methods to Improve Network Security
+### 5.1 DMZ
+### 5.2 Static IP
+### 5.3 NAT
+## 6.0 Risk Assessment Procedures
+## 7.0 Data Protection Processes and Regulations
+## 8.0 Main Components of The Disaster Recovery Plan
