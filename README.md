@@ -48,8 +48,13 @@ Firewalls are an essential part to the a networks security, protecting the netwo
 A VPN or Virtual Private Network protects data while it is being shared on a public network (the internet). A third party VPN protects files coming from a companies network (like Reboot Games). If a third party VPN is not correctly configured it could lead to any data being sent outside the network, being intercepted and corrupted or even worse stolen. This would be a huge issue for Reboot Games as it could mean the loss of hours workload, for this reason third party VPNs need to be properly conifgured before any data can be sent outside the network.
 ## 5.0 Methods to Improve Network Security
 ### 5.1 DMZ
+DMZ stands for Demilitarized Zone, which in terms of networking is a sub-network that can be used to seperate a private/local network from a public one. The DMZ itself is able to be accessed from the internet, however the local network itself cannot be accessed from any public network.
+
+A DMZ is a useful security tool as it can cut off a private network from the internet. This is a very effective tool at reducing the risk of attacks from online hackers, as they can't access data stores belonging to that network through the internet. Network services that work through the internet, such as emails, can be placed inside the DMZ incase of a attack on the network, so hackers cannot access any of the data from that service.
 ### 5.2 Static IP
+A static internet protocol (IP) is a number permantely assigned to that machine on a network, to establish its location on the internet. Every system on the internet has a dynamic IP but a system with a static IP is assigned manually by an internet service provider, a dynamic IP will change every time that system re-connects to the internet however a static IP will never change. A static IP is useful as it allows a network to apply more tasks to a system, such as hosting a website that would require a static IP so other systems can find it on the internet.
 ### 5.3 NAT
+NAT stands for Network Address Translation which is the virtualisation of IP addresses on a network. NAT allows an organisation to require less IP addresses for their systems on their network. The NAT does this by translating the IP addresses of systems on a local network to one IP address, which is used by the router to connect the systems to the internet. Using a NAT provides an organisation with extra security as when a external system attempts to access a system on the local network, they will only find the IP of the router. 
 ## 6.0 Risk Assessment Procedures
 ## 7.0 Data Protection Processes and Regulations
 ## 8.0 Main Components of The Disaster Recovery Plan
