@@ -35,9 +35,17 @@ Another threat to our organisation is malware. Malware refers to a variety of ma
 #### Data Loss/Theft
 Data loss is when data cannot be accessed anymore by the company; because it has been lost, stolen, deleted or corrupted. If data is lost, it means that we will have to go back in the development process and re-create the lost data which would slow the development process significantly. If data is stolen it can be very beneficial to the thief as they could sell our data to other rivaling companies for financial gain.
 ## 3.0 Organisational Security Procedures
+### Acceptable Use Procedures
+Employees of Reboot Games will be given training on Reboot Game's security policy and their obligations to protect sensitive data of the oragnisation from unauthorized access. All employees will follow these guidelines as a condition of their employment and all employees and third parties who are granted privileges will be required to sign a document, stating that they have been given and read our security policy and have agreed to follow all the steps within it.
+### Entering and Leaving Procedure
+All employees of Reboot Games will be given a ID card, this ID card will allow the employee into the college where the Reboot Game's office resides, and will allow the employee to access the locked door into the office. All employees will be required to scan their ID upon entering the college and entering the office, to keep track of which employees are present and which are absent. All employees will also be required to scan out of the office and college when leaving, to keep track of who is still inside the building and therefore still has access to Reboot Game's office.
+### Awareness Procedure
+Upon seeing suspicious activity within the college grounds, an employee should immediately contact either a higher member of staff or security depending on what is most effecient. If the suspicious activity is deemed a threat all employees should evacuate the building using the nearest available exits. Employees are not allowed to re-enter the building until authorities have deemed the building safe again.
 ## 4.0 Potential Impact of Incorrect Configurations
 ### 4.1 Firewall Policies
+Firewalls are an essential part to the a networks security, protecting the network from any malicious attackers or viruses. For this reason it is vital the firewall be configured properly or then the company would be vulnerable to attacks. A incorrect configuration of the firewall could lead to a flaw in the firewall a hacker could exploit to send malware through the firewall, if the malware gets through it could then effect a multitude of work stations which could lead to an IT emergency and prevent employees from getting work completed, or even steal employees personal information putting their other accounts at risk of hacks.
 ### 4.2 Third Party VPNs
+A VPN or Virtual Private Network protects data while it is being shared on a public network (the internet). A third party VPN protects files coming from a companies network (like Reboot Games). If a third party VPN is not correctly configured it could lead to any data being sent outside the network, being intercepted and corrupted or even worse stolen. This would be a huge issue for Reboot Games as it could mean the loss of hours workload, for this reason third party VPNs need to be properly conifgured before any data can be sent outside the network.
 ## 5.0 Methods to Improve Network Security
 ### 5.1 DMZ
 ### 5.2 Static IP
