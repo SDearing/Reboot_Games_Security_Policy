@@ -64,4 +64,13 @@ NAT stands for Network Address Translation which is the virtualisation of IP add
 | Power cut | The college, which the office resides in, losing all power causing our computer systems to shut down potentially losing progress on tasks being worked on at that time | Medium | All work should be saved regularly, to avoid data loss if a power cut does occur|
 
 ## 7.0 Data Protection Processes and Regulations
+Reboot Games must assure the protection of personal data, so it abides the regulations of the Data Protection Act 1998. The Data Protection Act was implemented into the law to assure that an indivduals personal information is not used for malicious use, i.e. identity theft. Reboot Games must assure this protection by making sure any personal data is kept secure and can only be accessed by the person(s) that data is related to.
+
+The data protection act classifies personal data as information that can be used to indentify an individual either directly or indirectly. Such information includes: name, an identification number (i.e. National Insurance Number), location data, online identifiers and any reference to the individuals physical, physiological, genetic, mental, economic, cultural or social identity.
+### Procedures by Reboot Games to Uphold the Data Protection Act
+* Physical copies of personal data must be kept in a locked container at all times
+* Once they have given their written consent, personal data must be taken from the individual in a private setting and may only be seen and handled by authorized personnel
+* All copies of the individuals personal data must be destroyed as soon as they are no longer needed
+* Employees must change their password(s) every month
+* Any systems containing personal data must have said data encrypted and have up-to-date anti-virus software installed at all times.
 ## 8.0 Main Components of The Disaster Recovery Plan
