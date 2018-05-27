@@ -56,5 +56,12 @@ A static internet protocol (IP) is a number permantely assigned to that machine 
 ### 5.3 NAT
 NAT stands for Network Address Translation which is the virtualisation of IP addresses on a network. NAT allows an organisation to require less IP addresses for their systems on their network. The NAT does this by translating the IP addresses of systems on a local network to one IP address, which is used by the router to connect the systems to the internet. Using a NAT provides an organisation with extra security as when a external system attempts to access a system on the local network, they will only find the IP of the router. 
 ## 6.0 Risk Assessment Procedures
+|Risk           | Explanation               | Severity     |Procedure of Prevention                  |
+|---------------|---------------------------|--------------|-----------------------------------------|
+| Physical data theft    | An attacker breaking into and stealing data from the company, either for monetary gain or blackmail.| High | The last person to leave the office must make sure the door is locked, with an alarm set in place incase of a break in. Also all computer systems must be password protected.|
+| Attempted Hack| A hacker attempts to break into the college network, with the purpose of stealing data from the network| High | The network must be protected with robust firewalls and the network must be tested, regularly, for possible vulnerabilties.|
+| Illness| An employee spreading an illness around the office| Low | If an employee has an infectious illness, that employee should not go into the office until they are no longer inflicted with the illness.|
+| Power cut | The college, which the office resides in, losing all power causing our computer systems to shut down potentially losing progress on tasks being worked on at that time | Medium | All work should be saved regularly, to avoid data loss if a power cut does occur|
+
 ## 7.0 Data Protection Processes and Regulations
 ## 8.0 Main Components of The Disaster Recovery Plan
